@@ -7,8 +7,8 @@ This Discord bot provides users with the ability to encrypt and decrypt messages
 - Key Management: Users can manage their encryption and decryption keys, listing all current keys associated with their account for both messages and images.
 
 # Dependencies 
-discord.py: The Python library for interacting with the Discord API.
-dotenv: For loading environment variables such as Discord bot token securely.
+- discord.py: The Python library for interacting with the Discord API.
+- dotenv: For loading environment variables such as Discord bot token securely.
 
 # Getting Started
 - Clone this repository.
@@ -18,5 +18,5 @@ dotenv: For loading environment variables such as Discord bot token securely.
 
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me on discord!
-
+ 
   Discord: *npyrz*
