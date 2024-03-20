@@ -9,6 +9,7 @@ This Discord bot provides users with the ability to encrypt and decrypt messages
 # Dependencies 
 - discord.py: The Python library for interacting with the Discord API.
 - dotenv: For loading environment variables such as Discord bot token securely.
+- Google Firebase Realtime Database
 
 # Getting Started
 - Clone this repository.
